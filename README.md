@@ -1,12 +1,9 @@
 ![Tec de Monterrey](images/logotecmty.png)
 # Ejercicios con funciones
+[![Comprehensive Markdown Crash Course](https://markdown-videos.deta.dev/youtube/VY448UWAQ_0)](https://www.youtube.com/watch?v=VY448UWAQ_0)
+
 
 - 01 Convertidor
-- 02 Calcula Grado
-- 04 Tienda Sillas
-- 05 Binario - Decimal
 - 06 Area Prisma Rectangular
 - 07 Volumen Prisma Rectangular
-- 08 Tarjeteria Española
 - 09 Area Rectángulo
-- 10 Oraciones
